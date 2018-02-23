@@ -1,19 +1,22 @@
 # Site wide configuration
 
-title: Site Title
+title: Ben Watrous's Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Ben Watrous
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Benjamin Watrous is a business development innovator and marketing strategist.  He has established business for global corporations, regional distribution companies, and as an entrepreneur. His strategies and tactics led market research and customer contribution for Novartis’s aquaculture business, a unit of Novartis Consumer Health, which develops, manufactures, and markets biotechnology solutions.  Ben also expanded distribution for an all-natural animal supply company in the Southeastern U.S., solving customers’ direct distribution concerns while increasing revenue over 100%.  Ben’s drive for business development founded an aquatic animal care company, winning long-term business with the largest companies in Las Vegas, including MGM/Mirage Resorts and Station Casinos.  Before entrepreneurism, Ben was an aquarium biologist supporting conservation initiatives at the Shark Reef, the largest public aquarium in Nevada, and remains committed to values in line with environmental and social responsibility.
+
+Benjamin earned Bachelor's degrees in Biology and Psychology from the University of Nevada.  As a graduate student, he also led an in-depth consumer research study of North Carolina’s shellfish consumption at NC State University’s business school.  His broad education and entrepreneurial experience in small to multinational corporations enables him to develop marketing strategies and implement business plans that achieve financial goals.  Benjamin’s current aim involves the application of innovative marketing channels to improve the commercialization of sustainable food products.  
+"
+  email: benwatrous@yahoo.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
-  github: #username
+  linkedin: benwatrous
+  github: blwatrou
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
